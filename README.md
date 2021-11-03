@@ -14,7 +14,7 @@
 	</a>
 </p>
 
-# 👀微信/QQ/TIM防撤回补丁
+# 👀微信/QQ/TIM防撤回补丁-------引用https://github.com/huiyadanli/RevokeMsgPatcher
 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。**支持最新版微信/QQ/TIM**，其中微信能够选择安装多开功能。
 
 <img width="180px" src="https://raw.githubusercontent.com/huiyadanli/RevokeMsgPatcher/master/Images/revoke.jpg"/>
